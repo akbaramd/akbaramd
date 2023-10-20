@@ -9,7 +9,7 @@
 Want to help? [Here are my "Good First Issue" issues](https://github.com/search?q=is%3Aopen+author%3Aardalis+label%3A%22good+first+issue%22).
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardalis&show_icons=true&theme=dark" alt="ardalis" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaramd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <div/>
 <br />
   
