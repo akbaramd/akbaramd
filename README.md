@@ -2,7 +2,7 @@
 
 #### **Akbar Ahmadi Saray**
 
-#open_hiring #remote
+_#open\_hiring_ _#remote_
 
 🇮🇷 Iran - Uemia  
 💬 Senior Software Developer   
@@ -14,7 +14,7 @@
 
 #### **Skills**
 
-⌨️ Roles  :  **Senior FullStack Developer** - **Software Architecture**  
+⌨️ Roles : **Senior FullStack Developer** - **Software Architecture**  
 🖥 Backend : **NetCore** - **NestJs** - **ExpressJS**  
 💻 Frontend : **Blazor Webassembly (NetCore)** - **Angular** - **React**  
 📃 Concept : **Microservice** - **Domain Driven Design (DDD)** - **Test Driven Design (TDD)** - **Solid Principle**
@@ -24,5 +24,5 @@
 #### **States**
 
 [![Akbars GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaramd&theme=dark)](https://github.com/akbaramd)
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbaramd&theme=dark)
