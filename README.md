@@ -8,14 +8,9 @@
   
 Want to help? [Here are my "Good First Issue" issues](https://github.com/search?q=is%3Aopen+author%3Aardalis+label%3A%22good+first+issue%22).
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaramd&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<div/>
-<br />
-  
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dark" alt="ardalis" />
-<div/>
-<br />
 
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ardalis&repo=ardalis&countColor=%237B1E7A)
+[![Akbars GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaramd&theme=dark)](https://github.com/akbaramd)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbaramd&theme=dark)
+
+
