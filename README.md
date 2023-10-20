@@ -3,7 +3,7 @@
 - 💬 Senior Software Developer 
 - ✅ 8 years of software development experience based on different languages
 - 🔎 Research on different software architectures and possess architectural ideas in the field of software design
-- ⬆️ [Follow akbaramd on Lindin](https://www.linkedin.com/in/akbar-ahmadi-saray-5a5b9016b/). I publish my articles and posts in the field of software on LinkedIn
+- ⬆️ [Follow akbaramd on linkedin](https://www.linkedin.com/in/akbar-ahmadi-saray-5a5b9016b/). I publish my articles and posts in the field of software on LinkedIn
 - 
 Want to help? [Here are my "Good First Issue" issues](https://github.com/search?q=is%3Aopen+author%3Aardalis+label%3A%22good+first+issue%22).
 
