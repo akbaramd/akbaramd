@@ -2,6 +2,8 @@
 
 #### **Akbar Ahmadi Saray**
 
+#open_hiring #remote
+
 🇮🇷 Iran - Uemia  
 💬 Senior Software Developer   
 ✅ 8 years of software development experience based on different languages  
