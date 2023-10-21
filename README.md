@@ -4,11 +4,11 @@
 
 _#open\_hiring_ _#remote_
 
-🇮🇷 Iran - Uemia  
+🇮🇷 Iran - Urmia
 💬 Senior Software Developer   
 ✅ 8 years of software development experience based on different languages  
 🔎 Research on different software architectures and possess architectural ideas in the field of software design  
-⬆️ \[Follow akbaramd on linkedin\](https://www.linkedin.com/in/akbar-ahmadi-saray-5a5b9016b/). I publish my articles and posts in the field of software on LinkedIn
+⬆️ [linkedin](https://www.linkedin.com/in/akbar-ahmadi-saray-5a5b9016b/)
 
 ---
 
