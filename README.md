@@ -25,4 +25,4 @@ _#open\_hiring_ _#remote_
 
 [![Akbars GitHub stats](https://github-readme-stats.vercel.app/api?username=akbaramd&theme=dark)](https://github.com/akbaramd)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbaramd&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbaramd&hide_progress=true)
