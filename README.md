@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-#### **Akbar Ahmadi Saray**
+## **Akbar Ahmadi Saray**
 
 _#open\_hiring_ _#remote_
 
