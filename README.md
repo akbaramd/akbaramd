@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="PoEeVNSR4ldzbdhf9zYXXrsCtBjSpkj8E79UQgs62QY" />
-
 #### Hi there 👋
 
 ## **Akbar Ahmadi Saray**
